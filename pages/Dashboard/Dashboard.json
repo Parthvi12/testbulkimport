@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "test-1",
-    "slug": "test-1",
+    "name": "Dashboard",
+    "slug": "dashboard",
     "layouts": [
       {
         "viewMode": false,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "test-1_delayedOrders",
+              "id": "Dashboard_delayedOrders",
               "name": "delayedOrders",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -36,7 +36,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_monthlyDeliveryDates",
+              "id": "Dashboard_monthlyDeliveryDates",
               "name": "monthlyDeliveryDates",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -44,7 +44,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_monthlyExpectedDeliveryDates",
+              "id": "Dashboard_monthlyExpectedDeliveryDates",
               "name": "monthlyExpectedDeliveryDates",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -52,7 +52,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_orderValuePerMonth",
+              "id": "Dashboard_orderValuePerMonth",
               "name": "orderValuePerMonth",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -60,7 +60,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_ordersPerMonth",
+              "id": "Dashboard_ordersPerMonth",
               "name": "ordersPerMonth",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -68,7 +68,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_paymentMethod",
+              "id": "Dashboard_paymentMethod",
               "name": "paymentMethod",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -76,7 +76,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_popularProducts",
+              "id": "Dashboard_popularProducts",
               "name": "popularProducts",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -84,7 +84,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_refundMethod",
+              "id": "Dashboard_refundMethod",
               "name": "refundMethod",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -92,7 +92,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_refundValuePerMonth",
+              "id": "Dashboard_refundValuePerMonth",
               "name": "refundValuePerMonth",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -100,7 +100,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_refundedOrders",
+              "id": "Dashboard_refundedOrders",
               "name": "refundedOrders",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -108,7 +108,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_refundsPerMonth",
+              "id": "Dashboard_refundsPerMonth",
               "name": "refundsPerMonth",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -116,7 +116,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_totalCustomers",
+              "id": "Dashboard_totalCustomers",
               "name": "totalCustomers",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -124,7 +124,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "test-1_totalOrders",
+              "id": "Dashboard_totalOrders",
               "name": "totalOrders",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -135,7 +135,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "test-1",
+        "id": "Dashboard",
         "deleted": false,
         "policies": [],
         "userPermissions": []
