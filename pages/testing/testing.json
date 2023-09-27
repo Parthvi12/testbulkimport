@@ -29,8 +29,9 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "testing_SelectQuery",
+              "id": "Dashboard_Utils.getDonutChart",
               "name": "SelectQuery",
+              "collectionId": "Dashboard_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
