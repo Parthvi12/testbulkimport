@@ -29,7 +29,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "testing_SelectQuery",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
